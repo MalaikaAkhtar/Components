@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Components</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">login</string>
+    <string name="signin">SignIn</string>
+    <string name="loginBtn">Login</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="sign_in">Sign In</string>
+    <string name="shopping">shopping</string>
+    <string name="Subscription">subscription</string>
+    <string name="income">income</string>
+    <string name="expense">expense</string>
+    <string name="image">image</string>
+    <string name="documents">documents</string>
+    <string name="imagetv">Image</string>
+    <string name="recently_transaction">Recently Transaction</string>
+    <string name="add_attachment">Add Attachment</string>
+    <string name="account_balance">Account Balance</string>
+</resources>
